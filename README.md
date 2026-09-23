@@ -97,6 +97,22 @@ It demonstrates:
 - WhatsApp Cloud API integration
 - human-controlled Won / Lost / Nurture outcomes
 
+### [AI Dental Receptionist](https://github.com/harpreet-narang/ai-dental-receptionist)
+
+A voice-first dental clinic receptionist using n8n, Google Calendar, Supabase, WhatsApp confirmations, and human escalation.
+
+It demonstrates:
+
+- voice-agent tool calls into n8n
+- real appointment-slot generation
+- Google Calendar conflict checking
+- booking revalidation
+- rescheduling and cancellation
+- clinic FAQ and human handoff
+- WhatsApp reminders
+- reusable clinic configuration
+- clear medical safety boundaries
+
 > Built as public portfolio implementations. Commercial and production projects remain private.
 
 ---
