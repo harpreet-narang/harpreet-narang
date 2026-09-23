@@ -55,6 +55,19 @@ It demonstrates:
 - human-approved follow-up drafts
 - optional Supabase persistence and audit logging
 
+### [Human-in-the-Loop AI Agent](https://github.com/harpreet-narang/human-in-the-loop-ai-agent)
+
+An approval-gated AI workflow showing how to keep consequential actions under human control.
+
+It demonstrates:
+
+- structured AI action proposals
+- deterministic risk classification
+- Approve / Revise / Reject paths
+- a second approval gate after revision
+- safe simulated execution
+- auditable reviewer decisions
+
 > Built as public portfolio implementations. Commercial and production projects remain private.
 
 ---
