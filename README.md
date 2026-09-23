@@ -83,6 +83,20 @@ It demonstrates:
 - editorial approval and revision
 - CMS-ready publishing payloads
 
+### [WhatsApp AI Sales Agent](https://github.com/harpreet-narang/whatsapp-ai-sales-agent)
+
+A stateful WhatsApp sales automation using n8n, Meta WhatsApp Cloud API, Supabase, LLM intent extraction, and human handoff.
+
+It demonstrates:
+
+- persistent sales-stage memory
+- NEW → DISCOVERY → QUALIFYING → INTERESTED → BOOKING → HUMAN HANDOFF
+- deterministic stage transitions
+- objection and qualification tracking
+- scheduled follow-ups
+- WhatsApp Cloud API integration
+- human-controlled Won / Lost / Nurture outcomes
+
 > Built as public portfolio implementations. Commercial and production projects remain private.
 
 ---
