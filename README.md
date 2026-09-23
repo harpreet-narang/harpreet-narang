@@ -68,6 +68,21 @@ It demonstrates:
 - safe simulated execution
 - auditable reviewer decisions
 
+### [AI Blog Research & Publishing Pipeline](https://github.com/harpreet-narang/ai-blog-research-publishing-pipeline)
+
+An evidence-driven content pipeline that researches before writing and keeps humans in control of topic selection and publishing.
+
+It demonstrates:
+
+- research query planning and live web research
+- evidence-backed topic generation
+- human topic selection
+- second-pass research before drafting
+- source-aware article generation
+- hero-image creative direction
+- editorial approval and revision
+- CMS-ready publishing payloads
+
 > Built as public portfolio implementations. Commercial and production projects remain private.
 
 ---
