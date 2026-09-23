@@ -25,7 +25,7 @@ I’m particularly interested in:
 
 ---
 
-## Featured project
+## Featured projects
 
 ### [RAG Customer Support Agent](https://github.com/harpreet-narang/rag-customer-support-agent)
 
@@ -42,7 +42,20 @@ It demonstrates:
 - webhook-based website integration
 - conversation logging and observability
 
-> Built as a public portfolio implementation. Commercial and production projects remain private.
+### [AI Lead Qualification Agent](https://github.com/harpreet-narang/ai-lead-qualification-agent)
+
+An explainable lead-scoring and routing workflow using **n8n + LLMs + deterministic business rules**.
+
+It demonstrates:
+
+- structured lead intake and validation
+- explicit ICP scoring rules
+- AI-assisted intent and fit assessment
+- Hot / Warm / Nurture / Low routing
+- human-approved follow-up drafts
+- optional Supabase persistence and audit logging
+
+> Built as public portfolio implementations. Commercial and production projects remain private.
 
 ---
 
